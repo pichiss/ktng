@@ -1,0 +1,22 @@
+
+:root{
+    --main-blue-color: #007aff;
+    --mian-dim-font: #111;
+    --mian-dark-font: #333;
+    --mian-gray-font: #666;
+    --mian-light-font: #999;
+
+}
+.w100{
+    width: 100%;
+}
+.w1440{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.flex{
+    display: flex;
+}
+a{
+    font-family: "Noto Sans KR", sans-serif;
+}
